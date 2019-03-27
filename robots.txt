@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eesoewishe.jnpopgen.org/sitemap.xml
